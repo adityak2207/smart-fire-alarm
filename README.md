@@ -18,7 +18,5 @@ Will be released soon, stay tuned!
 
 ## References
 [1] https://jayakarthigeyan.blogspot.com/2014/08/fire-alarm-using-arduino.html
-
 [2] https://www.youtube.com/watch?v=ObjikQDh1Zc
-
 [3] https://www.twilio.com/docs/sms/tutorials/how-to-send-sms-messages-python
